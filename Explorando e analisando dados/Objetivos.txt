@@ -1,0 +1,10 @@
+análise exploratória de dados
+Resumir informações e dados para melhor apresentação para o cliente
+Visualização de dados
+
+
+Bibliotecas utilizadas:
+- Pandas
+- Seaborn
+- Matplotlib
+- Numpy
